@@ -24,7 +24,7 @@ Evaluate R-Squared score
 ### Compiler Type:  
 I used a compiler CPU provided in google colab while running this project.  
 ## Results  
-### This model predicts a very good results having a R-Squared value of 85.51% nearly.  
+### I have used random forest regression  model.... predicts a very good results having a R-Squared value of 85.51% nearly.  
 ## References  
 Health_Price_Predtion-> Reference: https://www.kaggle.com/datasets/mirichoi0218/insurance  
 ## Requirements  
