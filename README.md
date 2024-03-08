@@ -14,9 +14,13 @@ Predict Results
 Evaluate R-Squared score  
 ### Applications  
 **Prognos Health:** Utilizes AI to predict medical charges by analyzing historical data, patient demographics, and treatment specifics.  
+  
 **Cerner HealtheIntent:** Employs predictive analytics to forecast medical charges based on patient health records and clinical data.  
+  
 **Health Catalyst:** Offers predictive modeling capabilities to estimate medical charges, leveraging machine learning algorithms and healthcare data.  
+  
 **IBM Watson Health:** Provides predictive analytics solutions for healthcare, including medical charge prediction models using advanced AI techniques.  
+  
 ### Compiler Type:  
 I used a compiler CPU provided in google colab while running this project.  
 ## Results  
