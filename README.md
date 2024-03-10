@@ -31,8 +31,7 @@ Health_Price_Predtion-> Reference: https://www.kaggle.com/datasets/mirichoi0218/
 Pandas  
 Numpy  
 Matplotlib  
-Tensorflow  
-Tensorflow Sequential API  
+sci-kit learn  
 ## Programmes  
 Python  
 ## Owner  
